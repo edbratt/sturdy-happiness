@@ -9,6 +9,6 @@ links:
   download: https://glassfish.java.net/download.html
   mailinglist: https://java.net/projects/glassfish/lists/users/archive
   issuetracker: https://github.com/edbratt/sturdy-happiness/issues
-  source: https://java.net/projects/glassfish/sources/svn/show/trunk/main
+  source: https://github.com/edbratt/sturdy-happiness
   license: https://github.com/edbratt/sturdy-happiness/blob/master/LICENSE.md
   contribute: https://github.com/edbratt/sturdy-happiness/blob/master/CONTRIBUTING
