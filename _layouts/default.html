@@ -57,6 +57,10 @@
           {% if site.links.mailinglist %}
              <h2><a href="{{ site.links.mailinglist }}"><p>Mailing List</p></a></h2>
           {% endif %}
+		  
+		  {% if site.links.contribute %}
+             <h2><a href="{{ site.links.contribute }}"><p>Contributing</p></a></h2>
+          {% endif %}
           
           <!--h2>
           <a href="{{ site.github.zip_url }}">
@@ -64,12 +68,7 @@
           </a>
           </h2-->
 
-          <h2>
-          <a href="contribute">
-            <p>Contribute</p>
-          </a>
-          </h2>            
-            
+
           <h2>
           <a href="{{ site.links.license }}">
             <p>License</p>
