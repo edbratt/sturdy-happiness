@@ -1009,18 +1009,18 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 <td>2.1.14</td>
 <td><a href="#ApacheLicenseText">Apache Software License v2.0</a></td>
 <td><p>May include the following:</p>
-<p>org.apache.felix:org.apache.felix.shell:1.0.0       License Apache 2.0 - http://felix.apache.org/license.html<br />
-org.apache.felix:org.apache.gogo.runtime:1.0.0 License Apache 2.0 - http://felix.apache.org/license.html<br />
-org.osgi:osgi.core:6.0.0  http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:osgi.annotation:6.0.1 http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:org.osgi.service.component:1.4.0 http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:org.osgi.service.cm:1.6.0 http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:org.osgi.service.log:1.3.0 http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:org.osgi.service.metatype:1.3.0 http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:org.osgi.namespace.extender:1.0.1 http://www.apache.org/licenses/LICENSE-2<br />
-org.osgi:org.osgi.util.promise:1.0.0 http://www.apache.org/licenses/LICENSE-2<br />
-org.ops4j.base:ops4j-base-lang:1.2.3 http://www.apache.org/licenses/LICENSE-2<br />
-org.ops4j.base:ops4j-base-net:1.2.3 http://www.apache.org/licenses/LICENSE-2</p></td>
+<tr><td>org.apache.felix:org.apache.felix.shell:1.0.0       License Apache 2.0 - http://felix.apache.org/license.html</td>
+<td>org.apache.felix:org.apache.gogo.runtime:1.0.0 License Apache 2.0 - http://felix.apache.org/license.html</td>
+<td>org.osgi:osgi.core:6.0.0  http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:osgi.annotation:6.0.1 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:org.osgi.service.component:1.4.0 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:org.osgi.service.cm:1.6.0 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:org.osgi.service.log:1.3.0 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:org.osgi.service.metatype:1.3.0 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:org.osgi.namespace.extender:1.0.1 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.osgi:org.osgi.util.promise:1.0.0 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.ops4j.base:ops4j-base-lang:1.2.3 http://www.apache.org/licenses/LICENSE-2</td>
+<td>org.ops4j.base:ops4j-base-net:1.2.3 http://www.apache.org/licenses/LICENSE-2</td></tr></td>
 </tr>
 </tbody>
 </table>
