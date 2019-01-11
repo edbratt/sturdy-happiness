@@ -19,7 +19,7 @@
 <td>1.3.4</td>
 <td><br />
 Apache License Version 2.0, January 2004</td>
-<td>License is located at http://www.apache.org/licenses/LICENSE-2.0 as mentioned in https://github.com/FasterXML/java-classmate/blob/master/src/main/resources/META-INF/LICENSE<br />
+<td>License is located at http://www.apache.org/licenses/LICENSE-2.0<br />
 <span id="ApacheLicenseText">Apache License</span><br />
 Version 2.0, January 2004<br />
 http://www.apache.org/licenses/<br />
