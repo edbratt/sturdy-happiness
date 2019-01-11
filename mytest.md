@@ -754,7 +754,7 @@ III. License Summary<br />
 - MIT License<br />
 - Creative Commons Attribution 2.5 License<br />
 - Tanner Hildebrand's License<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+-------------------------------------------------------------<br />
 List of dependencies with Apache 2.0 license:<br />
 commons-fileupload:commons-fileupload:jar:1.2.1<br />
 commons-io:commons-io:jar:1.4<br />
@@ -766,7 +766,7 @@ org.apache.felix:org.apache.felix.utils:jar:1.9.0<br />
 org.apache.felix:org.osgi.service.obr:jar:1.0.2<br />
 org.osgi:org.osgi.compendium:jar:4.1.0<br />
 org.osgi:org.osgi.core:jar:4.3.0<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+--------------------------------------------------------------<br />
 For the JQuery component:<br />
 Copyright 2012 jQuery Foundation and other contributors<br />
 http://jquery.com/<br />
@@ -786,7 +786,7 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+--------------------------------------------------------------<br />
 For the JQuery UI component:<br />
 Copyright 2012 jQuery Foundation and other contributors,<br />
 http://jqueryui.com/<br />
@@ -810,7 +810,7 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+-------------------------------------------------------------<br />
 For the Javascript Cookie Library component:<br />
 The MIT License<br />
 Copyright (c) 2005 - 2009, James Auldridge<br />
@@ -829,7 +829,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+---------------------------------------------------------------<br />
 For the JQuery Multifile component:<br />
 The MIT License<br />
 Copyright (c) 2008 Fyneworks.com<br />
@@ -848,7 +848,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+----------------------------------------------------------------<br />
 For the reset-min.css component:<br />
 BSD License<br />
 Copyright (c) 2010, Yahoo! Inc.<br />
@@ -875,7 +875,7 @@ INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
 CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+---------------------------------------------------------------<br />
 For the Tablesorter component:<br />
 The MIT License<br />
 Copyright (c) 2007 Christian Bach<br />
@@ -894,7 +894,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+-----------------------------------------------------------------<br />
 For the Tabspaging component:<br />
 Copyright (c) 2012, http://seyfertdesign.com/jquery/ui-tabs-paging.html<br />
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -912,7 +912,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+-------------------------------------------------------------------<br />
 For the org.json classes (applies if org.json classes are embedded):<br />
 Copyright (c) 2002 JSON.org<br />
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -931,7 +931,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+----------------------------------------------------------------------<br />
 For the tabworld JQuery plugin:<br />
 Copyright (c) 2009 Tanner Hildebrand<br />
 Licensed under Tanner Hildebrand's License<br />
@@ -986,11 +986,11 @@ org.codehaus.woodstox:woodstox-core-asl:jar:4.0.7<br />
 org.osgi:org.osgi.compendium:jar:5.0.0<br />
 org.osgi:org.osgi.core:jar:5.0.0<br />
 stax:stax-api:jar:1.0.1<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+---------------------------------------------------------------------<br />
 BSD license<br />
 net.sf.kxml:kxml2:jar:2.3.0<br />
 org.codehaus.woodstox:stax2-api:jar:3.0.1<br />
--------------------------------------------------------------------------------------------------------------------------<br />
+---------------------------------------------------------------------<br />
 XML2:</p>
 <p>Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany.<br />
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<br />
