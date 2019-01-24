@@ -755,7 +755,6 @@ to a jury trial in any resulting litigation.
 ------
 
 ## The MIT License
-===============
 
 Copyright © `<year>` `<copyright holders>`
 
