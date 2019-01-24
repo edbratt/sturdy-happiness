@@ -29,10 +29,10 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | CDI API                                   | 2.0          | Copyright 2010 Red Hat, Inc., and individual contributors by the @authors tag. | See the copyright.txt in the distribution for a full listing of individual contributors. | [cdi-spec.org](http://cdi-spec.org/)                         |
 | Classmate                                 | 1.3.4        |                                                              | Java ClassMate library was originally written by Tatu Saloranta (tatu.saloranta@iki.fi). Additional contributions from Brian Langel | [github.com FasterXML](https://github.com/FasterXML)         |
 | Hibernate Validator                       | 6.0.10.Final | Copyright Hibernate.org                                      |                                                              | [hibernate.org](http://hibernate.org/)                       |
-| Jackson Annotations                       | 2.9.7        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML jackson-annotations](https://github.com/FasterXML/jackson-annotations) |
-| Jackson Core                              | 2.9.7        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML jackson-core](https://github.com/FasterXML/jackson-core) |
-| Jackson Databind                          | 2.9.7        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML](https://github.com/FasterXML)         |
-| Jackson Module JAXB Annotation            | 2.9.7        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML jackson-modules-base](https://github.com/FasterXML/jackson-modules-base) |
+| Jackson Annotations                       | 2.9.8        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML jackson-annotations](https://github.com/FasterXML/jackson-annotations) |
+| Jackson Core                              | 2.9.8        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML jackson-core](https://github.com/FasterXML/jackson-core) |
+| Jackson Databind                          | 2.9.8        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML](https://github.com/FasterXML)         |
+| Jackson Module JAXB Annotation            | 2.9.8        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML jackson-modules-base](https://github.com/FasterXML/jackson-modules-base) |
 | Java Batch                                | 1.0.2        | Copyright 2012-2017 International Business Machines Corp.    |                                                              | [JSR 352 (Java Batch) Project](https://github.com/WASdev/standards.jsr352.jbatch) |
 | javassist                                 | 3.22.0-GA    | Copyright © 1999-2017 by Shigeru Chiba                       |                                                              | [javassist.org](http://www.javassist.org/)                   |
 | JBoss Classfile Writer                    | 1.2.1.Final  | Copyright 2017 Red Hat                                       |                                                              | [github.com jbossas jboss-classfilewriter](https://github.com/jbossas/jboss-classfilewriter) |
@@ -46,13 +46,12 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | Woodstox XML Processor                    | 5.1.0        | Copyright FasterXML.com                                      |                                                              | [github.com FasterXML](https://github.com/FasterXML)         |
 
 
-
 The following are provided under [Eclipse Distribution License 1.0](#Eclipse-Distribution-License-v-1.0)
 
 | Name                 | Version | Copyright             | Notes | Link                                                         |
 | -------------------- | ------- | --------------------- | ----- | ------------------------------------------------------------ |
 | Eclipse Yasson       | 1.0     | See source code files |       | [Eclipse Yasson Project](https://github.com/eclipse-ee4j/yasson) |
-| EclipseLink          | 2.7     | See source code files |       | [Eclipse Link Project](https://github.com/eclipse-ee4j/eclipselink) |
+| EclipseLink          | 2.7     | See source code files |       | [EclipseLink Project](https://github.com/eclipse-ee4j/eclipselink) |
 | Java Persistence API | 2.2     |                       |       | [Eclipse JPA Project](https://github.com/eclipse-ee4j/jpa-api) |
 
 
@@ -61,7 +60,6 @@ The following is provided under [Eclipse Public License, 1.0](#Eclipse-Public-Li
 | Name  | Version | Copyright                   | Notes | Link                                                  |
 | ----- | ------- | --------------------------- | ----- | ----------------------------------------------------- |
 | JUnit | 4.12    | Copyright © 2002-2017 JUnit |       | [GItHub junit4](https://github.com/junit-team/junit4) |
-
 
 The following are provided under the [Modified BSD license](#Modified-BSD-License)
 
@@ -78,10 +76,9 @@ The following is provided under the [Simplified BSD License](#Simplified-BSD-Lic
 | --------- | ------- | ------------------------------- | ----- | -------------------------------------- |
 | Stax2 API | 4.1     | Copyright © 2010, FasterXML.com |       | [FasterXML.com](https://fasterxml.com) |
 
-
 -----
 
-## Stated dependencies of dependencies
+## Stated dependencies of included components
 
 
 ### Included with Apache Felix Configuration Admin 1.8.16
@@ -126,7 +123,6 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | OSGi Annotations      | 6.0.0   | Copyright © OSGi Alliance (2000, 2015)             |       | [OSGI.org](http://www.osgi.org/)                             |
 | OSGi Core             | 5.0.0   | Copyright © OSGi Alliance (2000, 2015)             |       | [OSGI.org](http://www.osgi.org/)                             |
 
-
 -----
 
 ### Included in Apache Felix Gogo Command 1.0.2
@@ -137,7 +133,6 @@ The following is provided under [MIT License](#The-MIT-License)
 | ------------ | ------- | ------------------------------------- | ----- | -------------------------------------------- |
 | Mockito Core | 2.2.09  | Copyright © 2007 Mockito contributors |       | [Mockito Project](https://site.mockito.org/) |
 
-
 -----
 
 ### Included in Apache Felix Gogo Runtime 1.0.10
@@ -147,7 +142,6 @@ The following is provided under the [MIT License](#The-MIT-License)
 | Name    | Version | Copyright | Notes | Link                              |
 | ------- | ------- | --------- | ----- | --------------------------------- |
 | UdoJava |         |           |       | [udoJava.com](http://udoJava.com) |
-
 
 -----
 
@@ -161,7 +155,6 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | OSGi Compendium           | 4.3.1   | Copyright © OSGi Alliance (2000, 2012)             |       | [OSGi.org](http://www.osgi.org/)             |
 | OSGi Core                 | 4.3.1   | Copyright © OSGi Alliance (2000, 2012)             |       | [OSGi.org](http://www.osgi.org/)             |
 
-
 -----
 
 ### Included with Apache Felix Shell 1.4.3
@@ -172,7 +165,6 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | --------------- | ------- | -------------------------------------- | ----- | -------------------------------- |
 | OSGi Compendium | 4.0.0   | Copyright © OSGi Alliance (2000, 2007) |       | [OSGi.org](http://www.osgi.org/) |
 | OSGi Core       | 4.1.0   | Copyright © OSGi Alliance (2000, 2007) |       | [OSGi.org](http://www.osgi.org/) |
-
 
 -----
 
@@ -194,7 +186,6 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | OSGi Service OBR               | 1.0.2   | Copyright © OSGi Alliance (2000, 2012)             |       | [osgi.org](http://www.osgi.org/)             |
 
 
-
 The following are provided under the [MIT license](#The-MIT-License)
 
 | Name                                                        | Version | Copyright                                               | Notes | Link                                                         |
@@ -208,7 +199,6 @@ The following are provided under the [MIT license](#The-MIT-License)
 | Tabspaging                                                  |         | Copyright © 2012                                        |       | [seyfertdesign.com/jquery/ui-tabs-paging.html](http://www.seyfertdesign.com/jquery/ui.tabs.paging.html) |
 
 
-
 The following is provided under the [Modified BSD License](#Modified-BSD-License)
 
 | Name          | Version | Copyright                    | Notes | Link |
@@ -220,6 +210,7 @@ The following is provided under [Tanner Hildebrand's License](#Tanner-Hildebrand
 | Name                   | Version | Copyright                          | Notes | Link |
 | ---------------------- | ------- | ---------------------------------- | ----- | ---- |
 | Tabworld JQuery plugin |         | Copyright © 2009 Tanner Hildebrand |       |      |
+
 
 -----
 
@@ -240,7 +231,6 @@ The following are provided under [Apache Software License, 2.0](#Apache-License)
 | STAX API                      | 1.0.1   | Copyright © 2003 by Oracle and/or its affiliates (BEA Systems) |                       |                                              |
 
 
-
 The following are provided under the [Modified BSD License](#Modified-BSD-License)
 
 | Name               | Version | Copyright                                                    | Notes | Link                                                       |
@@ -249,17 +239,16 @@ The following are provided under the [Modified BSD License](#Modified-BSD-Licens
 | Woodstox STAX2 API | 3.0.1   |                                                              |       | [Github Stax2 API](https://github.com/FasterXML/stax2-api) |
 
 
-
 The following is provided under the [Simplified BSD License](#Simplified-BSD-License)
 
 | Name  | Version | Copyright                                                    | Notes | Link |
 | ----- | ------- | ------------------------------------------------------------ | ----- | ---- |
 | XML 2 |         | Copyright © 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany. |       |      |
 
+
 -----
 
 ### The following component is included in CDI API 2.0
-
 
 The following are provided under [Apache Software License, 2.0](#Apache-License)
 
@@ -278,7 +267,6 @@ The following components are provided under the [Modified BSD License](#Modified
 | ---------------- | ------- | -------------------------------------- | ----- | -------------------------------------------- |
 | Hamcrest core    | 1.3     | Copyright © 2000-2012 www.hamcrest.org |       | [www.hamcrest.org](https://www.hamcrest.org) |
 | Hamcrest Library | 1.3     | Copyright © 2000-2012 www.hamcrest.org |       | [www.hamcrest.org](https://www.hamcrest.org) |
-
 
 
 -----
@@ -755,7 +743,6 @@ to a jury trial in any resulting litigation.
 ------
 
 ## The MIT License
-
 Copyright © `<year>` `<copyright holders>`
 
 Permission is hereby granted, free of charge, to any person
