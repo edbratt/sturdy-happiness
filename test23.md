@@ -56,11 +56,12 @@ The following are provided under [Eclipse Distribution License 1.0](#Eclipse-Dis
 | Java Persistence API | 2.2     |                       |       | [Eclipse JPA Project](https://github.com/eclipse-ee4j/jpa-api) |
 
 
-The following is provided under [Eclipse Public License, 1.0](#Eclipse Public License-v-1.0)
+The following is provided under [Eclipse Public License, 1.0](#Eclipse-Public-License-v-1.0)
 
 | Name  | Version | Copyright                   | Notes | Link                                                  |
 | ----- | ------- | --------------------------- | ----- | ----------------------------------------------------- |
 | JUnit | 4.12    | Copyright © 2002-2017 JUnit |       | [GItHub junit4](https://github.com/junit-team/junit4) |
+
 
 The following are provided under the [Modified BSD license](#Modified-BSD-License)
 
@@ -69,6 +70,8 @@ The following are provided under the [Modified BSD license](#Modified-BSD-Licens
 | ASM   | 6.0     | Copyright © 2000-2011 INRIA, France Telecom           |       | [gitlab asm](https://gitlab.ow2.org/asm)         |
 | JLine | 2.14.5  | Copyright © 2002-2016, the original author or authors |       | [GitHub jline2](https://github.com/jline/jline2) |
 | JSch  | 01.54   | Copyright © 2002-2015 Atsuhiko Yamanaka, JCraft, Inc. |       | [JCraft jsch](http://www.jcraft.com/jsch)        |
+
+
 The following is provided under the [Simplified BSD License](#Simplified-BSD-License)
 
 | Name      | Version | Copyright                       | Notes | Link                                   |
@@ -257,7 +260,6 @@ The following is provided under the [Simplified BSD License](#Simplified-BSD-Lic
 
 ### The following component is included in CDI API 2.0
 
-The following component is provided under Apache Software License, 2.0
 
 The following are provided under [Apache Software License, 2.0](#Apache-License)
 
